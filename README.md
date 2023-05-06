@@ -14,11 +14,6 @@ Implemented Machine Learning and Artificial Intelligence model to detect the dif
 # Project Execution Video's :- 
 - Part 1 :- 
 
-https://user-images.githubusercontent.com/34335127/191261749-5ad620fc-c43e-4dba-a64b-2a447e02d84d.mp4
-
-- Part 2 :- 
-
-https://user-images.githubusercontent.com/34335127/191262827-1b255303-c054-4698-af8e-f469afc7436f.mp4
 # Screenshots of Application and Deployment :- 
 ## 1) Code :-
 - ![Code](https://user-images.githubusercontent.com/34335127/191258769-8825e101-872c-4106-93fc-9ab56900b710.png)
