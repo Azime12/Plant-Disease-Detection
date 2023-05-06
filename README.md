@@ -11,8 +11,6 @@ Implemented Machine Learning and Artificial Intelligence model to detect the dif
 - Machine Learning
 - Flask
 
-# Project Execution Video's :- 
-- Part 1 :- 
 
 # Screenshots of Application and Deployment :- 
 ## 1) Code :-
